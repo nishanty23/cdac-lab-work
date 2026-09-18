@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class InvertedHalfPyramidNumbers{
+class InvertedHalfPyramidNumbersReverse{
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
