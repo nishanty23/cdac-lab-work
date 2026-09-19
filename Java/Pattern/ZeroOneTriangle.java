@@ -37,7 +37,7 @@ class ZeroOneTriangle{
                     System.out.print("0 ");
                 }
             }
-            //System.out.println();
+            System.out.println();
         }
     }
 }
